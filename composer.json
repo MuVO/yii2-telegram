@@ -1,0 +1,28 @@
+{
+  "name": "muvo/yii2-telegram",
+  "version": "0.0.1",
+  "time": "2016-09-06",
+  "type": "yii2-extension",
+  "description": "A Telegram bot's API implementation as component of Yii2",
+  "keywords": [
+    "yii2",
+    "api",
+    "bot",
+    "telegram",
+  ],
+  "authors": [
+    {
+      "name": "Vladislav Muschinskikh",
+      "email": "i@unixoid.su"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "linslin/yii2-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "muvo\\yii\\telegram\\": ""
+    }
+  }
+}
