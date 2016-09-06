@@ -8,7 +8,7 @@
     "yii2",
     "api",
     "bot",
-    "telegram",
+    "telegram"
   ],
   "authors": [
     {
